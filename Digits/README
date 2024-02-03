@@ -1,0 +1,8 @@
+Ce dossier comporte plusieurs programme faisant le même jeu, le niveau 0 étant celui le plus basique, au niveau 2, le plus complexe (en ligne).
+
+
+
+Le but du jeu est de trouver le code d'accès à la porte le plus vite possible !
+
+
+Dans les versions en ligne, votre progression est sauvegardée dans MangoDB, une dataStore en ligne.
