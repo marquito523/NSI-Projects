@@ -1,0 +1,8 @@
+Ce dossier comporte plusieurs programme faisant le même jeu, le niveau 0 étant celui le plus basique, au niveau 2, le plus complexe (en ligne).
+
+
+
+Représentation du tiktaktoe.
+
+
+Dans la dernière version, le jeu peut être joué en ligne, à deux joueurs, utilisant comme serveur MangoDB, qui initialement est une DataBase, mais ici sert de serveur.
